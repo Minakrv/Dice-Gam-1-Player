@@ -23,7 +23,8 @@ body{
 
 
 .container{
-    width: 1000px;
+    width: 800px;
+    height: 400px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -36,6 +37,8 @@ body{
 .button{
     border: rgb(163, 213, 236) 7px solid;
     margin-bottom: 10px;
+   
+    
     
 }
 
@@ -50,8 +53,9 @@ p{
     text-align: center;
     font-size: 80px;
     font-weight: 100;
-    color: rgb(163, 213, 236);
-    margin-bottom: 130px;
+    color: rgb(245, 30, 30);
+    margin-bottom: 150px;
+    padding-bottom: 20px;
 }
 
 
